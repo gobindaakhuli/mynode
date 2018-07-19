@@ -1,0 +1,19 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "Website for my app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gobindaakhuli/mynode.git"
+  },
+  "author": "gobinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gobindaakhuli/mynode/issues"
+  },
+  "homepage": "https://github.com/gobindaakhuli/mynode#readme"
+}
