@@ -12,7 +12,7 @@ res.write('<!DOCTYPE html>'+
 ' <title>My Node.js page!</title>'+
 ' </head>'+ 
 ' <body>'+
-' <p>WELCOME to my first <strong>NODEJS</strong> application! build from jenkins</p>'+
+' <p>WELCOME to my first <strong>NODEJS</strong> application!1</p>'+
 '<p>You are at the reception desk. How can I help you?</p>'+
 ' </body>'+
 '</html>');
